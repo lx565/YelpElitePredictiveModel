@@ -1,4 +1,4 @@
-# YelpFakeReviews
+# Project: The study on recognition of suspicious Five Stars reviews and optimization of Yelp Elite system
 
 ## This is the final project for Machine Learning For Cities.
 
